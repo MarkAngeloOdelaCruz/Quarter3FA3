@@ -1,0 +1,52 @@
+body{
+  padding: 25px;
+  background-image: url(pexels-pixabay-2150.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
+}
+
+.title {
+	color: #5C6AC4;
+}
+
+div{
+  align-self: center;
+  text-align: center;
+  width: 150px;
+  margin: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#body{
+  width: 1000px;
+  background-color: #121212;
+  border: 15px solid #B0947E;
+  border-radius: 50px;
+  margin-top: 75px;
+}
+
+p, h1, h5 {
+  color: white;
+}
+
+#div1{
+  float: left;
+  margin-left: 100px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+#div2{
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+#div3{
+  float: right;
+  margin-right: 100px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
