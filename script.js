@@ -51,7 +51,7 @@ function numthLetter(num1){
 }
 
 function hrMin(num2, num3){
-  var total = parseInt(Math.pow(num2, num3));
+  var total = parseInt(num2 * num3);
   
   var hrs = Math.floor(total/60);
   
